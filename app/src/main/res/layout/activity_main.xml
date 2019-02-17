@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context="com.raza.muhammadrazasaeed.myfontsstunning.MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="I am android nation"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:layout_marginBottom="3dp"
+        android:id="@+id/androidNationTxt"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="I am capture it"
+        android:textSize="25sp"
+        android:layout_marginBottom="3dp"
+        android:gravity="center"
+        android:id="@+id/captureItTxt"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="I am caviar"
+        android:layout_marginBottom="3dp"
+        android:textSize="25sp"
+        android:gravity="center"
+        android:id="@+id/caviarTxt"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="I am droid robot"
+        android:textSize="25sp"
+        android:gravity="center"
+        android:layout_marginBottom="3dp"
+        android:id="@+id/droidTxt"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="I am droid serif"
+        android:layout_marginBottom="3dp"
+        android:textSize="25sp"
+        android:gravity="center"
+        android:id="@+id/droidSerifTxt"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="I am freedom"
+        android:layout_marginBottom="3dp"
+        android:textSize="25sp"
+        android:gravity="center"
+        android:id="@+id/freedomTxt"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="3dp"
+        android:text="I am green avocado"
+        android:textSize="25sp"
+        android:gravity="center"
+        android:id="@+id/greenAvocadoTxt"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="3dp"
+        android:text="I am ostrich"
+        android:textSize="25sp"
+        android:gravity="center"
+        android:id="@+id/ostrichTxt"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_marginBottom="3dp"
+        android:layout_height="wrap_content"
+        android:text="I am proxima nova"
+        android:textSize="25sp"
+        android:gravity="center"
+        android:id="@+id/proximaTxt"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="I am fun raiser"
+        android:layout_marginBottom="3dp"
+        android:textSize="25sp"
+        android:gravity="center"
+        android:id="@+id/funTxt"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="3dp"
+        android:text="I am fun recognition"
+        android:textSize="25sp"
+        android:gravity="center"
+        android:id="@+id/recognitionTxt"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="I am Roboto"
+        android:textSize="25sp"
+        android:gravity="center"
+        android:layout_marginBottom="3dp"
+        android:id="@+id/robotoTxt"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="3dp"
+        android:text="I am tangerine"
+        android:textSize="35sp"
+        android:gravity="center"
+        android:id="@+id/tangerineTxt"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="3dp"
+        android:text="I am walkway"
+        android:textSize="25sp"
+        android:gravity="center"
+        android:id="@+id/walkwayTxt"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="3dp"
+        android:text="I am windsong"
+        android:textSize="35sp"
+        android:gravity="center"
+        android:id="@+id/windsongTxt"/>
+
+</LinearLayout>
